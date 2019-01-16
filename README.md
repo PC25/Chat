@@ -5,4 +5,4 @@ SETUP
 1. Clone the repo.
 2. Run 'npm install && npm start' inside the directory.
 3. Point the browser to 'localhost:3000'.
-4. Follow the above steps in another system or browser tab to chat.
+4. Follow the above steps in another system or browser tab and join a common chatroom to chat.
