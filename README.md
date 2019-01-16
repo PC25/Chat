@@ -1,5 +1,5 @@
 # Chat
-An end-to-end 2048-bit RSA encrypted messenger. Multiple users, in a chat room, can communicate through text messages using public-key cryptography.
+An end-to-end RSA encrypted messenger. Multiple users, in a chat room, can communicate through text messages using public-key cryptography.
 
 SETUP
 1. Clone the repo.
